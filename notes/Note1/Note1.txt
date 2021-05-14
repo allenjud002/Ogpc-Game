@@ -1,0 +1,12 @@
+#region // Checkpoints
+if (global.Checkpoint = true)
+	{
+		x = global.Check_lastX;
+		y = global.Check_lastY;
+	}
+	else
+	{
+		x = xstart;
+		y = ystart;
+	}
+	#endregion
