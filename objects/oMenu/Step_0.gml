@@ -30,8 +30,8 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 {
 	switch (menu_committed)
 	{
-		case 2: default: room_goto(RPG_Center); break;
-		case 1: default: 
+		case 2:  room_goto(RPG_Center); break;
+		case 1:  
 		{
 			if (!file_exists(SAVEFILE))
 			{
