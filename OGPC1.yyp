@@ -93,6 +93,7 @@
     {"id":{"name":"oPowerup_SPEED","path":"objects/oPowerup_SPEED/oPowerup_SPEED.yy",},"order":6,},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},"order":0,},
     {"id":{"name":"RPG_Player","path":"objects/RPG_Player/RPG_Player.yy",},"order":0,},
+    {"id":{"name":"oLevelpick","path":"objects/oLevelpick/oLevelpick.yy",},"order":7,},
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},"order":4,},
     {"id":{"name":"s_Lava","path":"sprites/s_Lava/s_Lava.yy",},"order":1,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":0,},
